@@ -1,0 +1,26 @@
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.exe.config
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.exe
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.pdb
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.xml
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.frmMain.resources
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.Resources.resources
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.exe
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.xml
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.pdb
+C:\Users\Daniel\Desktop\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.frmSettings.resources
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.exe.config
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.exe
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.xml
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.pdb
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.exe
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.pdb
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.xml
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.frmMain.resources
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.frmSettings.resources
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.Resources.resources
+C:\Users\Daniel\Desktop\Code\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.vbproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\VB Projects\KanaSenpai\KanaSenpai\bin\Debug\KanaSenpai.exe.config
+C:\Users\Daniel\Documents\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.exe
+C:\Users\Daniel\Documents\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.xml
+C:\Users\Daniel\Documents\VB Projects\KanaSenpai\KanaSenpai\obj\Debug\KanaSenpai.pdb
